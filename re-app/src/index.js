@@ -8,6 +8,7 @@ import Array from './Array';
 import Arrobj from './Arrobj';
 import Barnav from './Barnav';
 import Arrcard from './Arrcard';
+import Obj from './Obj';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -18,6 +19,7 @@ root.render(
     <Arrobj />
     <Barnav />
     <Arrcard />
+    <Obj/>
     
 
     
